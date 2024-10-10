@@ -1,10 +1,10 @@
-    ____  _           __
-   / __ )(_)___  ____/ /
-  / __  / / __ \/ __  / 
- / /_/ / / / / / /_/ /  
-/_____/_/_/ /_/\__,_/   
-                        
-
+██████╗ ██╗███╗   ██╗██████╗ 
+██╔══██╗██║████╗  ██║██╔══██╗
+██████╔╝██║██╔██╗ ██║██║  ██║
+██╔══██╗██║██║╚██╗██║██║  ██║
+██████╔╝██║██║ ╚████║██████╔╝
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚═════╝ 
+                             
 - You've might seen my bio already, but if not, My name is Viktor AKA 'Bind'.
 
 - I'm very new to coding with C# as I am getting started with it and learning stuff about it.
